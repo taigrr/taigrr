@@ -4,7 +4,7 @@ I'm a full-stack developer and DevOps engineer.
 
 I regularly use and contribute to Open Source projects.
 
-My latest project is [grlx](https://grlx.org).
+My latest project is [grlx](https://grlx.dev).
 
 
 ## Sponsors
