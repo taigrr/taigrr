@@ -7,8 +7,6 @@
             |___/
 ```
 
-I build things in **Go**, break things in **production**, and fix things before anyone notices.
-
 Full-stack developer. DevOps engineer. Open source contributor. Garlic farmer.
 
 ---
@@ -31,13 +29,13 @@ Full-stack developer. DevOps engineer. Open source contributor. Garlic farmer.
 
 ### The usual suspects
 
-`Go` `Linux` `Nix` `NATS` `Neovim` `Terraform` `Docker` `K8s`
+`Go` `Linux` `NATS` `Neovim` `Docker` `K8s`
 
 ---
 
 ### Find me elsewhere
 
-**[@warptux](https://x.com/warptux)** on X | **[warp_tux](https://twitch.tv/warp_tux)** on Twitch | **[@TaiGroot](https://youtube.com/@TaiGroot)** on YouTube
+**[@taigrr](https://x.com/taigrr)** on X | **[warp_tux](https://twitch.tv/warp_tux)** on Twitch | **[@TaiGroot](https://youtube.com/@TaiGroot)** on YouTube
 
 ---
 
