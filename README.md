@@ -1,15 +1,50 @@
-Hey there.
+```
+ _        _
+| |_ __ _(_) __ _ _ __ _ __
+| __/ _` | |/ _` | '__| '__|
+| || (_| | | (_| | |  | |
+ \__\__,_|_|\__, |_|  |_|
+            |___/
+```
 
-I'm a full-stack developer and DevOps engineer.
+Full-stack developer. DevOps engineer. Open source contributor. Garlic farmer.
 
-I regularly use and contribute to Open Source projects.
+---
 
-My latest project is [grlx](https://grlx.dev).
+### What I'm cooking
 
+**[grlx](https://github.com/gogrlx/grlx)** — Fleet configuration management that won't eat your RAM for breakfast. Pure Go. Pronounced like "garlic" because every infrastructure needs more flavor.
 
-## Sponsors
+**[trophy](https://github.com/taigrr/trophy)** — Render 3D models in your terminal, because sometimes `cat` just isn't visual enough.
 
-Support my work by becoming a sponsor.
-Your logo will show up here with a link to your website. 
+**[systemctl](https://github.com/taigrr/systemctl)** — Go bindings for systemd. For when you need to restart things programmatically instead of SSHing in at 2am.
 
-## <a href="https://newleafsolutions.dev"><p align="left"><img src="assets/newleaf.png" width="125"></p> </a>
+**[elevenlabs](https://github.com/taigrr/elevenlabs)** — Give your Go programs a voice. Literally.
+
+**[teaqlite](https://github.com/taigrr/teaqlite)** — A TUI-based SQLite browser for people who think GUIs are bloat.
+
+**[neocrush.nvim](https://github.com/taigrr/neocrush.nvim)** — A Neovim colorscheme for terminal dwellers with taste.
+
+---
+
+### The usual suspects
+
+`Go` `Linux` `NATS` `Neovim` `Docker` `K8s`
+
+---
+
+### Find me elsewhere
+
+**[@taigrr](https://x.com/taigrr)** on X | **[warp_tux](https://twitch.tv/warp_tux)** on Twitch | **[@TaiGroot](https://youtube.com/@TaiGroot)** on YouTube
+
+---
+
+### Sponsors
+
+Your logo here. [Become a sponsor](https://github.com/sponsors/taigrr) and fuel the open source machine.
+
+### Past Sponsors
+
+Thanks to those who supported the work:
+
+<a href="https://newleafsolutions.dev"><img src="assets/newleaf.png" width="100" alt="New Leaf Solutions"></a>
