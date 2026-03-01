@@ -13,17 +13,19 @@ Full-stack developer. DevOps engineer. Open source contributor. Garlic farmer.
 
 ### What I'm cooking
 
-**[grlx](https://github.com/gogrlx/grlx)** — Fleet configuration management that won't eat your RAM for breakfast. Pure Go. Pronounced like "garlic" because every infrastructure needs more flavor.
+**[spank](https://github.com/taigrr/spank)** ⭐870 — Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 
-**[trophy](https://github.com/taigrr/trophy)** — Render 3D models in your terminal, because sometimes `cat` just isn't visual enough.
+**[grlx](https://github.com/gogrlx/grlx)** ⭐212 — Fleet configuration management that won't eat your RAM for breakfast. Pure Go. Pronounced like "garlic" because every infrastructure needs more flavor.
 
-**[systemctl](https://github.com/taigrr/systemctl)** — Go bindings for systemd. For when you need to restart things programmatically instead of SSHing in at 2am.
+**[trophy](https://github.com/taigrr/trophy)** ⭐82 — Render 3D models in your terminal, because sometimes `cat` just isn't visual enough.
 
-**[elevenlabs](https://github.com/taigrr/elevenlabs)** — Give your Go programs a voice. Literally.
+**[systemctl](https://github.com/taigrr/systemctl)** ⭐68 — Go bindings for systemd. For when you need to restart things programmatically instead of SSHing in at 2am.
 
-**[teaqlite](https://github.com/taigrr/teaqlite)** — A TUI-based SQLite browser for people who think GUIs are bloat.
+**[elevenlabs](https://github.com/taigrr/elevenlabs)** ⭐62 — Give your Go programs a voice. Literally.
 
 **[neocrush.nvim](https://github.com/taigrr/neocrush.nvim)** — A Neovim colorscheme for terminal dwellers with taste.
+
+**[teaqlite](https://github.com/taigrr/teaqlite)** — A TUI-based SQLite browser for people who think GUIs are bloat.
 
 ---
 
