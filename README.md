@@ -13,15 +13,17 @@ Full-stack developer. DevOps engineer. Open source contributor. Garlic farmer.
 
 ### What I'm cooking
 
-**[spank](https://github.com/taigrr/spank)** ⭐870 — Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
+**[spank](https://github.com/taigrr/spank)** ⭐4.2k — Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 
-**[grlx](https://github.com/gogrlx/grlx)** ⭐212 — Fleet configuration management that won't eat your RAM for breakfast. Pure Go. Pronounced like "garlic" because every infrastructure needs more flavor.
+**[grlx](https://github.com/gogrlx/grlx)** ⭐217 — Fleet configuration management that won't eat your RAM for breakfast. Pure Go. Pronounced like "garlic" because every infrastructure needs more flavor.
 
-**[trophy](https://github.com/taigrr/trophy)** ⭐82 — Render 3D models in your terminal, because sometimes `cat` just isn't visual enough.
+**[trophy](https://github.com/taigrr/trophy)** ⭐97 — Render 3D models in your terminal, because sometimes `cat` just isn't visual enough.
 
-**[systemctl](https://github.com/taigrr/systemctl)** ⭐68 — Go bindings for systemd. For when you need to restart things programmatically instead of SSHing in at 2am.
+**[systemctl](https://github.com/taigrr/systemctl)** ⭐72 — Go bindings for systemd. For when you need to restart things programmatically instead of SSHing in at 2am.
 
-**[elevenlabs](https://github.com/taigrr/elevenlabs)** ⭐62 — Give your Go programs a voice. Literally.
+**[elevenlabs](https://github.com/taigrr/elevenlabs)** ⭐67 — Give your Go programs a voice. Literally.
+
+**[apple-silicon-accelerometer](https://github.com/taigrr/apple-silicon-accelerometer)** ⭐24 — Go library for Apple Silicon accelerometer, gyroscope, ALS, and lid angle via IOKit HID. Zero CGO.
 
 **[neocrush.nvim](https://github.com/taigrr/neocrush.nvim)** — A Neovim colorscheme for terminal dwellers with taste.
 
