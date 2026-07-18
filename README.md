@@ -25,7 +25,7 @@ Full-stack developer. DevOps engineer. Open source contributor. Garlic farmer.
 
 **[apple-silicon-accelerometer](https://github.com/taigrr/apple-silicon-accelerometer)** ⭐33 — Go library for Apple Silicon accelerometer, gyroscope, ALS, and lid angle via IOKit HID. Zero CGO.
 
-**[neocrush.nvim](https://github.com/taigrr/neocrush.nvim)** ⭐21 — A Neovim colorscheme for terminal dwellers with taste.
+**[neocrush.nvim](https://github.com/taigrr/neocrush.nvim)** ⭐22 — A Neovim colorscheme for terminal dwellers with taste.
 
 **[teaqlite](https://github.com/taigrr/teaqlite)** ⭐9 — A TUI-based SQLite browser for people who think GUIs are bloat.
 
