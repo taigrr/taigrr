@@ -17,7 +17,7 @@ Full-stack developer. DevOps engineer. Open source contributor. Garlic farmer.
 
 **[grlx](https://github.com/gogrlx/grlx)** ⭐227 — Fleet configuration management that won't eat your RAM for breakfast. Pure Go. Pronounced like "garlic" because every infrastructure needs more flavor.
 
-**[trophy](https://github.com/taigrr/trophy)** ⭐131 — Render 3D models in your terminal, because sometimes `cat` just isn't visual enough.
+**[trophy](https://github.com/taigrr/trophy)** ⭐134 — Render 3D models in your terminal, because sometimes `cat` just isn't visual enough.
 
 **[systemctl](https://github.com/taigrr/systemctl)** ⭐76 — Go bindings for systemd. For when you need to restart things programmatically instead of SSHing in at 2am.
 
